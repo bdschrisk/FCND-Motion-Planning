@@ -69,13 +69,13 @@ Because of the obstacle avoidance behaviour, sacrifices in the path costs can be
 The local energy field for each state is the difference between the two interacting energy fields:
 
 > Attractive force:  
-![Attractive force formula](/images/attractive_force.png)
+![Attractive force formula](/Images/attractive_force.png)
 
 > Repulsive force:   
-![Repulsuve force formula](/images/repulsive_force.png)
+![Repulsuve force formula](/Images/repulsive_force.png)
 
 > Energy\* Heuristic function visualisation   
-![Energy* heuristic](/images/energy_star-heuristic2.png)
+![Energy* heuristic](/Images/energy_star-heuristic2.png)
 
 In addition to the energy field heuristic method described above, a "jump step" mechanism has been added to the search routine to speed up convergence.  This works by adding predetermined jump steps to each successive action-step, with each jump step cost scaled by a relative weight to control jumping behaviour.
 
@@ -89,13 +89,13 @@ To remove redundant waypoints, I have implemented a path expansion algorithm whi
 The results below compare the results of the original path, using both the collinearity test and the path expansion algorithm.
 
 > Original unpruned path   
-![Original Unpruned Path](/images/path-pruning-raw.png)
+![Original Unpruned Path](/Images/path-pruning-raw.png)
     
 > Path pruning using collinearity tests   
-![Original Unpruned Path](/images/path-pruning-collinear.png)
+![Original Unpruned Path](/Images/path-pruning-collinear.png)
     
 > Path pruning by expansion method    
-![Original Unpruned Path](/images/path-pruning-expansion.png)
+![Original Unpruned Path](/Images/path-pruning-expansion.png)
 
 *As you can see from the images above the expansion method results in a far superior path while still being admissable and maintaining optimality.*
 
@@ -103,6 +103,6 @@ The results below compare the results of the original path, using both the colli
 #### 1. Does it work?
 It works!
 
-![In action](/images/in-action.png)
+![In action](/Images/in-action.png)
 
 
