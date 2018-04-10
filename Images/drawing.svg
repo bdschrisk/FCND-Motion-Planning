@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient876">
+      <stop
+         id="stop880"
+         offset="0"
+         style="stop-color:#5c5c5c;stop-opacity:1" />
+      <stop
+         style="stop-color:#2d6467;stop-opacity:1"
+         offset="1"
+         id="stop874" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1218"
+       inkscape:collect="always">
+      <stop
+         id="stop1214"
+         offset="0"
+         style="stop-color:#00dd64;stop-opacity:1" />
+      <stop
+         id="stop1216"
+         offset="1"
+         style="stop-color:#00dd90;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1149">
+      <stop
+         style="stop-color:#dd5b00;stop-opacity:1;"
+         offset="0"
+         id="stop1145" />
+      <stop
+         style="stop-color:#dd5b00;stop-opacity:0;"
+         offset="1"
+         id="stop1147" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1021">
+      <stop
+         style="stop-color:#c4c100;stop-opacity:1"
+         offset="0"
+         id="stop1017" />
+      <stop
+         id="stop1220"
+         offset="0.5"
+         style="stop-color:#0083dd;stop-opacity:1" />
+      <stop
+         style="stop-color:#00a8dd;stop-opacity:1"
+         offset="0.75"
+         id="stop1222" />
+      <stop
+         style="stop-color:#009f0c;stop-opacity:1"
+         offset="1"
+         id="stop1019" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1021"
+       id="linearGradient1023"
+       x1="32.763967"
+       y1="58.217197"
+       x2="178.131"
+       y2="58.217197"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1218"
+       id="radialGradient1047"
+       cx="105.7051"
+       cy="54.185638"
+       fx="105.7051"
+       fy="54.185638"
+       r="91.53981"
+       gradientTransform="matrix(0.83094218,0,0,0.58991698,-66.873141,61.43702)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1218"
+       id="radialGradient1047-5"
+       cx="105.7051"
+       cy="54.185638"
+       fx="105.7051"
+       fy="54.185638"
+       r="91.53981"
+       gradientTransform="matrix(0.71665312,0,0,0.50877889,55.218812,-77.892055)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1218"
+       id="radialGradient1047-0"
+       cx="105.7051"
+       cy="54.185638"
+       fx="105.7051"
+       fy="54.185638"
+       r="91.53981"
+       gradientTransform="matrix(0.71665312,0,0,0.50877889,39.532423,-20.218124)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1218"
+       id="radialGradient1047-5-4"
+       cx="105.7051"
+       cy="54.185638"
+       fx="105.7051"
+       fy="54.185638"
+       r="91.53981"
+       gradientTransform="matrix(0.47785046,0,0,0.33924393,-188.50227,-156.91989)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1149"
+       id="radialGradient1153"
+       cx="48.242149"
+       cy="29.062298"
+       fx="48.242149"
+       fy="29.062298"
+       r="43.164028"
+       gradientTransform="matrix(0.99961972,-0.02757572,0.0123839,0.44891642,-4.0833324,21.35511)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1149"
+       id="radialGradient1153-1"
+       cx="48.242149"
+       cy="29.062298"
+       fx="48.242149"
+       fy="29.062298"
+       r="43.164028"
+       gradientTransform="matrix(1.2719619,-0.02757572,0.01575784,0.44891642,17.195364,-104.74214)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1149"
+       id="radialGradient1153-3"
+       cx="48.242149"
+       cy="29.062298"
+       fx="48.242149"
+       fy="29.062298"
+       r="43.164028"
+       gradientTransform="matrix(0.99961971,-0.02757572,0.0123839,0.44891642,-20.991383,-165.12894)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1149"
+       id="radialGradient1153-3-4"
+       cx="48.242149"
+       cy="29.062298"
+       fx="48.242149"
+       fy="29.062298"
+       r="43.164028"
+       gradientTransform="matrix(0.99961971,-0.02757572,0.0123839,0.44891642,26.860603,-191.32673)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient876"
+       id="linearGradient878"
+       x1="32.873798"
+       y1="97.350433"
+       x2="178.00186"
+       y2="19.038919"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="527.51055"
+     inkscape:cy="859.71353"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:url(#linearGradient878);fill-opacity:1;stroke:none;stroke-width:0.96499997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect893"
+       width="210.53273"
+       height="106.58929"
+       x="-0.37797621"
+       y="-0.089286737"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient1047-5);fill-opacity:1.0;stroke:none;stroke-width:0.21310636;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1025-3"
+       width="131.20459"
+       height="93.147049"
+       x="65.370407"
+       y="-96.897072"
+       ry="0"
+       transform="matrix(0.67441061,0.7383565,-0.87372689,0.48641683,0,0)" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient1047-0);fill-opacity:1;stroke:none;stroke-width:0.21310636;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1025-1"
+       width="131.20459"
+       height="93.147049"
+       x="49.684017"
+       y="-39.223141"
+       ry="0"
+       transform="matrix(0.96401377,0.26585231,-0.48053976,0.87697294,0,0)" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient1047);fill-opacity:1;stroke:none;stroke-width:0.24709174;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1025"
+       width="152.12859"
+       height="108.00178"
+       x="-55.102604"
+       y="39.401157"
+       ry="0"
+       transform="matrix(0.86964665,-0.4936747,0.2803206,0.95990643,0,0)" />
+    <ellipse
+       style="opacity:1;fill:url(#radialGradient1153);fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1143"
+       cx="44.500378"
+       cy="33.071342"
+       rx="43.164028"
+       ry="19.377041"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26218337px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 32.873799,97.350432 178.00186,19.03892"
+       id="path922"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#212121;fill-opacity:1;stroke:none;stroke-width:0.21030982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path10"
+       cx="32.205978"
+       cy="97.750557"
+       r="4.1426778"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#c4c100;fill-opacity:1;stroke:none;stroke-width:0.21030982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path10-1"
+       cx="68.955536"
+       cy="99.220551"
+       r="4.1426778"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#c4c100;fill-opacity:1;stroke:none;stroke-width:0.21030982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path10-1-4"
+       cx="29.399647"
+       cy="69.820908"
+       r="4.1426778"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#c4c100;fill-opacity:1;stroke:none;stroke-width:0.21030982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path10-1-9"
+       cx="76.171814"
+       cy="73.028137"
+       r="4.1426778"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#c4c100;fill-opacity:1;stroke:none;stroke-width:0.21030982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path10-1-7"
+       cx="58.532028"
+       cy="59.664658"
+       r="4.1426778"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="opacity:1;fill:url(#radialGradient1153-1);fill-opacity:1;stroke:none;stroke-width:0.29845724;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1143-5"
+       cx="79.015503"
+       cy="-93.025917"
+       rx="54.923889"
+       ry="19.377041"
+       transform="rotate(90)" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 65.748303,29.997741 H 22.985177 v 6.94901 h 42.763126 z"
+       id="path924-2-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient1023);stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 32.873799,97.350431 25.123687,-37.418502 40.090428,-23.51972 18.441596,16.303442 17.63979,7.216278 31.00327,-9.888974 9.6217,-16.570708 3.20759,-14.433327"
+       id="path1015"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28851488px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 90.081796,55.400311 V 106.42486 H 97.00687 V 55.400311 Z"
+       id="path924"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient1047-5-4);fill-opacity:1.0;stroke:none;stroke-width:0.14209521;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1025-3-2"
+       width="87.484688"
+       height="62.108654"
+       x="-181.73338"
+       y="-169.59207"
+       ry="0"
+       transform="matrix(-0.81620383,0.57776405,-0.37445083,-0.92724677,0,0)" />
+    <ellipse
+       style="opacity:1;fill:url(#radialGradient1153-3-4);fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1143-9-9"
+       cx="75.444305"
+       cy="-179.6105"
+       rx="43.164028"
+       ry="19.377041"
+       transform="rotate(90)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 134.1693,59.931929 178.00186,19.03892"
+       id="path962"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 176.39788,55.388345 v 42.763126 h 6.94901 V 55.388345 Z"
+       id="path924-2-5"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="36.883195"
+       inkscape:transform-center-y="-3.7417734"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="opacity:1;fill:url(#radialGradient1153-3);fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1143-9"
+       cx="27.592319"
+       cy="-153.4127"
+       rx="43.164028"
+       ry="19.377041"
+       transform="rotate(90)" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 149.67093,4.6071361 V 47.370262 h 6.94901 V 4.6071361 Z"
+       id="path924-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#009f0c;fill-opacity:1;stroke:none;stroke-width:0.21030982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path10-7"
+       cx="178.80331"
+       cy="19.306963"
+       r="4.1426778"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#00a8dd;fill-opacity:1;stroke:none;stroke-width:0.21030982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path10-1-4-9-0-6"
+       cx="164.9053"
+       cy="31.601357"
+       r="4.1426778"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#00a8dd;fill-opacity:1;stroke:none;stroke-width:0.21030982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path10-1-4-9-0-6-4"
+       cx="180.67421"
+       cy="43.628487"
+       r="4.1426778"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#00a8dd;fill-opacity:1;stroke:none;stroke-width:0.21030982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path10-1-4-9-0-6-9"
+       cx="165.17258"
+       cy="50.042957"
+       r="4.1426778"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#00a8dd;fill-opacity:1;stroke:none;stroke-width:0.21030982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path10-1-4-9-0-6-9-8"
+       cx="175.06154"
+       cy="33.472248"
+       r="4.1426778"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#0083dd;fill-opacity:1;stroke:none;stroke-width:0.21030982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path10-1-4-9"
+       cx="98.355186"
+       cy="36.946751"
+       r="4.1426778"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#0083dd;fill-opacity:1;stroke:none;stroke-width:0.21030982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path10-1-4-9-3"
+       cx="116.52951"
+       cy="52.715652"
+       r="4.1426778"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#0083dd;fill-opacity:1;stroke:none;stroke-width:0.21030982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path10-1-4-9-6"
+       cx="128.28938"
+       cy="32.403168"
+       r="4.1426778"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#0083dd;fill-opacity:1;stroke:none;stroke-width:0.21030982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path10-1-4-9-0"
+       cx="134.1693"
+       cy="60.1992"
+       r="4.1426778"
+       inkscape:export-filename="C:\Users\palladium\Source\Repos\FCND-Notebook-Exercises\images\PDR-Search.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
